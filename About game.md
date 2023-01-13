@@ -2,7 +2,10 @@
 
 Grzybiarze - The Koźlarz Babka Story
 
-FPS Game
+FPS Game where You must pick as many mushrooms as possible in 2 minutes. One type of mushroom give you +1 point but other give -1 point.
+If you pick wrong type you can throw it away by right mouse button.
+
+# Screenshots
 
 ![Zrzut ekranu (278)](https://user-images.githubusercontent.com/122620174/212386299-d8087d1b-18b2-4c26-8406-6ef31dd64ab0.png)
 
